@@ -1,0 +1,5 @@
+update base_conocimiento  set Serial ='1234564789101112',
+		Tipo='televisor',Id_proveedor='2',
+		Palabra_clave='tv',Observaciones=''
+
+	    WHERE Id_bconocimiento ='6'

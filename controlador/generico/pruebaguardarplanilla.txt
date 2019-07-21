@@ -1,0 +1,7 @@
+INSERT INTO requerimiento  (Id_requerimiento,Cedula,Estado,Asignado,
+		Serial ,Fecha_apertura, Fecha_cierre,Observacion,Solucion)
+        VALUES
+        (' ','72483568','Abierto',
+		'Experto',
+		'24467','19-11-2011','',
+		'El cliente se comunica e informa que tiene problemas con el equipo de sonido','se le informm al usuario que revise el toma electrico pero la falla continua. se escala al experto')
